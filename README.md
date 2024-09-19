@@ -25,17 +25,25 @@ BE6502 add SD card. at back of the board.
 
 [def1]: images/IMG_4504.jpg
 
+DIR the SD CARD.
+
 ![alt text][def2]
 
 [def2]: images/dir.jpg
+
+LOAD file from SD card.
 
 ![alt text][def3]
 
 [def3]: images/load.jpg
 
+SAVE file to SD card.
+
 ![alt text][def4]
 
 [def4]: images/save.jpg
+
+DELETE file in SD card.
 
 ![alt text][def5]
 
