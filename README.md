@@ -18,13 +18,14 @@ DIR, DELETE
 SAVE, LOAD, DELETE, command with filename MUST exact 11 character and sourrend by  " .
 
 <hr>
+
 ![alt text][def1]
 
 [def1]: images/IMG_4504.jpg
 
 ![alt text][def2]
 
-[def3]: images/dir.jpg
+[def2]: images/dir.jpg
 
 ![alt text][def3]
 
