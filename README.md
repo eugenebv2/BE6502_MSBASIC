@@ -19,6 +19,8 @@ SAVE, LOAD, DELETE, command with filename MUST exact 11 character and sourrend b
 
 <hr>
 
+BE6502 add SD card. at back of the board.
+
 ![alt text][def1]
 
 [def1]: images/IMG_4504.jpg
@@ -34,3 +36,7 @@ SAVE, LOAD, DELETE, command with filename MUST exact 11 character and sourrend b
 ![alt text][def4]
 
 [def4]: images/save.jpg
+
+![alt text][def5]
+
+[def5]: images/delete.jpg
