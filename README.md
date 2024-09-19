@@ -25,7 +25,7 @@ SAVE, LOAD, DELETE, command with filename MUST exact 11 character and sourrend b
 
 ![alt text][def2]
 
-[def3]: images/load.jpg
+[def2]: images/load.jpg
 
 ![alt text][def3]
 
