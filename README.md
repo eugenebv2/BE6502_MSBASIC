@@ -19,7 +19,7 @@ SAVE, LOAD, DELETE, command with filename MUST exact 11 character and sourrend b
 
 <hr>
 
-BE6502 add SD card. at back of the board.
+BE6502 add SD card at back of the board.
 
 ![alt text][def1]
 
