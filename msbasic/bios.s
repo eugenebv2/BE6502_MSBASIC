@@ -437,8 +437,8 @@ DELETE:
                 jsr FAT32FINDDIRENT
                 bcc @FOUNDFILE
 
-                lda #<QT_DELNOTFOUND
-                ldy #>QT_DELNOTFOUND
+                lda #<QT_FILENOTFOUND
+                ldy #>QT_FILENOTFOUND
                 jsr STROUT
                 rts
 
@@ -500,8 +500,6 @@ QT_SDINITFAILED:
                 .byte "SD INIT FAILED",CR,LF,0                                 
 QT_FILENOTFOUND:
                 .byte "FILE NOT FOUND",CR,LF,0      
-QT_DELNOTFOUND:
-                .byte "DELETE FILE NOT FOUND",CR,LF,0      
 QT_SAVING:
                 .byte CR,LF,"SAVING ",0                   
 QT_DELETEING:
