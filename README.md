@@ -17,6 +17,8 @@ DIR, DELETE
 
 SAVE, LOAD, DELETE, command with filename MUST exact 11 character and sourrend by  " .
 
+function update in the bios.s, 
+
 <hr>
 
 BE6502 add SD card at back of the board.
